@@ -1,0 +1,6 @@
+Learn Solidity
+Master Solidity
+Learn Python
+Master Python
+Learn React
+Master React
